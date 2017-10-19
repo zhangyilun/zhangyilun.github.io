@@ -1,0 +1,122 @@
+body {
+	font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif;
+	margin: auto;
+	max-width: 960px;
+	min-width: 630px;
+	font-size: 15px;
+}
+
+header {
+	font-family: "Helvetica";
+	font-size: 1.5em;
+	width: 100%;
+	border-bottom-style: solid;
+	border-bottom-width: 0;
+	border-color: #2980B9;
+	padding-top: 40px;
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+	margin-top: -30px;
+}
+
+header h1 {
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+div h1 {
+	font-size: 1em;
+	color: white;
+	background-color: #2980B9;
+	padding: 5px 10px;
+}
+
+div h3 {
+	font-size: 1em;
+}
+
+div h4 {
+	font-size: 1em;
+}
+
+p {
+	margin: 3px 0px;
+}
+
+
+/**
+left column
+*/
+
+div#left {
+	width: 60%;
+	float: left;
+	font-size: 1em;
+}
+
+div#left h4 {
+	font-size: 1.25em;
+	padding-top: 0px;
+	margin-bottom: auto;
+}
+
+div#left h5 {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0em;
+	margin-top: 0em;
+}
+
+div#left p {
+	font-size: 13px;
+}
+
+div#left ul {
+	margin-top: .5em;
+	padding-left: 1em;
+	margin-left: 1em;
+}
+
+div#left li {
+	font-size: 13px;
+}
+
+h5#italic {
+	font-style: italic;
+}
+
+#hackathon {
+	padding-bottom: 50px;
+}
+
+#hackathon p {
+	padding-bottom: 5px;
+}
+
+/**
+Right col
+*/
+
+div#right {
+	width: 33%;
+	float: right;
+	height: 100%;
+}
+
+div#right h3 {
+	font-size: 0.8em;
+	margin-bottom: .3em;
+	width: 100%;
+	border-bottom-width: 3px;
+}
+
+div#right ul {
+	list-style-position: inside;
+	margin-top: 0;
+	font-size: 0.8em;
+	margin-top: .5em;
+	padding-left: 0em;
+}
+
+
+
