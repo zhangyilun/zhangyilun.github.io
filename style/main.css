@@ -79,17 +79,19 @@ div#left ul {
 
 div#left li {
 	font-size: 13px;
+	margin-bottom: 0.5em;
 }
 
 h5#italic {
 	font-style: italic;
 }
 
-#hackathon {
+
+#talk {
 	padding-bottom: 50px;
 }
 
-#hackathon p {
+#talk p {
 	padding-bottom: 5px;
 }
 
