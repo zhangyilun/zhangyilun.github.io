@@ -12,7 +12,7 @@ header {
 	width: 100%;
 	border-bottom-style: solid;
 	border-bottom-width: 0;
-	border-color: #415065;
+	border-color: #6599FF;
 	padding-top: 40px;
 	padding-bottom: 10px;
 	margin-bottom: 0px;
@@ -27,7 +27,7 @@ header h1 {
 div h1 {
 	font-size: 1em;
 	color: white;
-	background-color: #415065;
+	background-color: #6599FF;
 	padding: 5px 10px;
 }
 
@@ -117,6 +117,3 @@ div#right ul {
 	margin-top: .5em;
 	padding-left: 0em;
 }
-
-
-
